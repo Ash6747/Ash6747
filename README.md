@@ -1,4 +1,4 @@
-# 👋 Welcome to Ashish Shivaji Satpute's GitHub!  
+# 👋 Welcome to Ashish Satpute's GitHub!  
 
 **Empowering Digital Innovation | Full Stack Developer | Tech Enthusiast**  
 
